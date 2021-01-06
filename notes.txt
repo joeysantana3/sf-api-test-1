@@ -1,0 +1,21 @@
+Security
+Source key vault
+/subscriptions/455848cf-124c-45f7-8d8c-9d7bccdffe9c/resourceGroups/test-alsantan-rg/providers/Microsoft.KeyVault/vaults/alsantan-api-kv
+Certificate URL
+https://alsantan-api-kv.vault.azure.net/secrets/alsantanapi-cert/6a091324c9e044e78623ea36d8024d87
+Certificate thumbprint
+9E82DF9F1A23D6952DC407630AEFE1C4EF7F7E39
+Tags
+None
+
+
+
+The Service Fabric extension for VS Code helps developers to create and deploy Service Fabric projects using many commands. Commands can be called pressing (Ctrl + Shift + p), typing the command name into the input bar, and selecting the desired command for the prompt list.
+
+Service Fabric: Create Application
+Service Fabric: Publish Application
+Service Fabric: Deploy Application
+Service Fabric: Remove Application
+Service Fabric: Build Application
+Service Fabric: Clean Application
+Service Fabric: Upgrade Application
